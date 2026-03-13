@@ -1,0 +1,52 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Another common question is whether the units smell in high temperatures?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We use premium deodorizing chemicals and offer increased service frequencies to keep units fresh during hot weather.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent porta potties for a long-term project?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We support long-term construction, municipal projects, and maintenance work with scalable servicing plans and scheduled pumping.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I move the porta potty once it has been delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strongly advise against moving the units yourself, as they must be properly leveled and stabilized to prevent tipping. If you need to relocate a unit, please call our team, and we will handle the move professionally to ensure safety.</p>
+                <h4 class="template4 palooma" style="font-size:large;">People also wonder about the height and width of the units for delivery purposes?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard units fit through most standard gate openings, but we can provide exact dimensions for tight spaces.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you handle placement and servicing?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our team handles placement, pumping, sanitizing, and scheduled servicing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you deliver units on weekends or holidays?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We work closely with our clients to accommodate specific delivery windows, including weekends for special events. We recommend booking in advance to ensure your preferred time slot is available during busy seasons.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
